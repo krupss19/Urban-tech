@@ -1,4 +1,4 @@
-# UrbanTech – Premium Electronics Store (Homepage)
+# UrbanTech – Premium Electronics Store 
 
 A modern, responsive e‑commerce homepage built with React.  
 This project focuses on a **realistic, single‑page** user interface with product browsing, category filtering (via alerts), and a newsletter signup.
