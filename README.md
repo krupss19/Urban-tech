@@ -3,7 +3,7 @@
 A modern, responsive e‑commerce homepage built with React.  
 This project focuses on a **realistic, single‑page** user interface with product browsing, category filtering (via alerts), and a newsletter signup.
 
-## 🚀 Live Demo (No backend required)
+## 🚀 Live Demo 
 Just run locally – the homepage is fully functional with mock data and interactive alerts.
 
 ## ✨ Features
